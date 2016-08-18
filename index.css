@@ -1,0 +1,288 @@
+   .carousel-inner img{
+    width:100%;
+   } 
+   .showpic .item{
+    height:700px;
+   }
+  .showpic p{
+    font-size:50px;
+    color:white;
+    position:absolute;
+    top:200px;
+    left:200px;
+    z-index:1;
+    font-weight:bold;
+   }
+   .maincontent{
+    background:transparent;
+    top:600px;
+    left:240px;
+    position:absolute;
+    border:15px solid rgba(180,180,180,0.5);
+   }
+  .maincontent *{
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+  }
+ .maincontent input.check:hover{
+  background:#bafcfa;
+  border-radius:15px;
+ }
+ .story{
+  padding:25px;
+  text-align:center;
+ }
+ .explore{
+  padding:25px;
+  text-align:center;
+ }
+ .story-group{
+ margin-left:100px;
+  margin-right:100px;
+ }
+.story-group a{
+  color:#999;
+}
+.explore-group{
+  margin-left:100px;
+  margin-right:100px;
+ margin-bottom:27px;
+}
+.scrollstory{
+  margin-top:30px;
+}
+.scrollpic2{
+  height:700px;
+}
+.scrollpic2 .carousel-caption{
+  margin-bottom:270px;
+}
+.scrollpic2 .carousel-caption p{
+  font-size:25px;
+  opacity:0.8;
+}
+.story-group2{
+  margin-top:20px;
+  
+}
+.story-group2 .nora{
+  width:320px;
+  height:470px;
+  background:rgb(71,143,100);
+}
+.nora .norb .norc .nord{
+  position:relative;
+}
+.top{
+  position:absolute;
+  top:0;
+  left:160px;
+  padding:12px;
+  color:white;
+}
+.norb .top{
+  background:rgb(71,143,100);
+}
+.norc .top{
+  background:rgb(195,11,72);
+}
+.nord .top{
+  background:rgb(91,14,234);
+}
+.norb img{
+   width:320px;
+   height:470px;
+}
+.norc img{
+   width:320px;
+   height:470px;
+}
+.nord img{
+  width:320px;
+  height:470px;
+}
+.nora img:first-child{
+ margin-left:130px;
+ margin-top:20px;
+ width:80px;
+}
+.nora img:nth-child(2){
+  margin-left:60px;
+  margin-top:15px;
+}
+.nora .caption{
+  color:white;
+  bottom:30px;
+  position:absolute;
+ left:70px;
+}
+.nora .caption p{
+  text-align:center;
+  left:80px;
+  opacity:0.7;
+}
+.norb .caption{
+  color:white;
+  position:absolute;
+  top:200px;
+  left:80px;
+  text-align:center;
+}
+.norb .caption p{
+  opacity:0.8;
+  color:white;
+}
+.norb .caption a{
+  color:white;
+}
+.norc .caption{
+  color:white;
+  position:absolute;
+  top:350px;
+  left:30px;
+  text-align:center;
+}
+.norc .caption p{
+  opacity:0.8;
+  color:white;
+}
+.norc .caption a{
+  color:white;
+}
+.nord .caption{
+  color:white;
+  position:absolute;
+  top:330px;
+  left:30px; 
+}
+.nord .caption p{
+  opacity:0.8;
+  color:white;
+}
+.nord .caption a{
+  color:white;
+}
+.pay{
+margin-top:20px;
+  background:rgb(149,25,89);
+  color:white;
+  text-align:center;
+  padding:30px;
+  height:290px;
+}
+.pay .row{
+  padding:5px;
+}
+.pay .row a{
+  color:white;
+  opacity:0.8;
+}
+.bottom{
+  margin-top:30px;  
+  height:500px;
+  color:white;
+  margin-bottom:20px;
+}
+.bottom *{
+    -webkit-border-radius:0;
+    -moz-border-radius:0;
+    border-radius:0;
+  }
+  .bottom .dropdown{
+    margin-top:20px;
+    padding:10px;
+    width:100px;
+  }
+  .bottom .dropdown button{
+    width:250px;
+    height:50px;
+    background:rgba(180,180,180,0.8);
+  }
+  .contact{
+    margin-left:10px;
+    opacity:0.5;
+  }
+  .bottom ul{   
+   opacity:0.8;
+    list-style:none;
+  }
+  .bottom a{
+    color:white;
+  }
+  .bottom a:hover{
+    color:#999;
+    list-style-type:none;
+    text-decoration:none;
+  }
+  .bottom .row{
+     margin-left:180px;
+     margin-top:50px;
+     width:1100px;
+  }
+  .diver{
+    margin-top:80px;
+  }
+  .attention{
+    text-align:center;
+  }
+  .attention span:hover{
+    color:#999;
+  }
+  .bottom img{
+    position:absolute;
+    width:100%;
+    height:500px;
+    left:0;    
+    z-index:-1;
+  }
+ .header{
+  top:5px;
+  z-index:1;
+  position:absolute;
+  width:100%;
+ }
+ .header img{
+  height:45px;
+  float:left; 
+  margin-left:30px;
+ }
+ .header ul{
+  margin:10px 50px auto auto;
+  float:right;
+ }
+ .header ul li{
+  list-style:none;
+  display:inline-block;
+  margin-left:30px;
+  font-size:20px;
+ }
+ .header a{
+  color:white;
+ }
+ .hold{
+  border:1px solid white;
+  padding:2px;
+ }
+ .hold:hover{
+  background:rgba(0,0,0,0.2);
+ }
+ .header a:hover{
+  text-decoration:none;
+  opacity:0.8;
+ }
+ .hefei{
+  position:absolute;
+  background:white;
+  width:250px;
+  height:auto;
+  padding:15px;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius:5px;
+  
+  display:none;
+ }
+ .contact span{
+  display:none;
+ }
